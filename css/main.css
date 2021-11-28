@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+
+
+a[href*="else"] {
+  color: orange;
+}
+
+.someting {
+  color: red;
+}
